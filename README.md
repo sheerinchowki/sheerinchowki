@@ -1,4 +1,11 @@
-### Hi there 👋
+
+Sheerin is a result-oriented thought leader with 19+ years of experience in software development, architecting, designing and leading Cloud, Data & AI solutions and emerging technologies. Proven ability to lead and inspire large, global teams, exceeding expectations in complex projects across Energy & Utilities, Industrial, Telecommunication and Public sectors. Expertise in software development, architecting the enterprise solutions, consulting, sales, solutioning and leading strategic go-to-market engagements. Strong entrepreneurial mindset with a track record of building high-performing technical teams, and establishing best practices. 
+
+Sheerin is working for IBM Consulting as Associate Partner and supporting Eliet Client in the Industrial Sector as Lead Enterprise Architect responsbile for engagements & projects in the area of Data & AI (including Generative AI). 
+
+Sheerin’s technical expertise and leadership have been recognized through numerous awards and accolades, including IBM Tech 2024, Technical Rock Star Award for Cloud Program 2014, IBM Manager’s Choice Award, and Outstanding Contributor awards.
+
+Sheerin hold master’s degree in computer applications. She is IBM Thought Leader Certified Solution Consultant and Gold Certified in Energy, Environment and Utilities Insights and Solutions. She also holds other professional certifications: Microsoft Certified Azure Fundamentals, IBM Certified Cloud Advocate v1, CFPS (Certified Function Point Specialist), MCTS (Microsoft Certified Technology Specialist) in Web Applications, MCP (Microsoft Certified Professional), and OCA (Oracle Certified Associates). 
 
 <!--
 **sheerinchowki/sheerinchowki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
